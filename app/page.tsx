@@ -6,7 +6,7 @@ import { Button } from 'antd';
 const Home = () => (
   <div className="App">
     <Button type="primary">Button</Button>
-    <div className="bg-black">HAllo Cu</div>
+    <div className="bg-black text-white">HAllo Cu</div>
   </div>
 );
 
